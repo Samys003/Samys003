@@ -4,9 +4,9 @@ Olá, meu nome é Samara, Tenho 22 anos, atualmente estudo no senai e finalizei 
 
 ##
 <a href="https://github.com/Samys003">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Samys003&show_icons=true&theme=dracula" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Samys003&show_icons=true&theme=dracula" />
   </a>
-  <a href="https://github.com/mfcstt/convoychat"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samys003&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <a href="https://github.com/mfcstt/convoychat"><img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samys003&layout=compact&langs_count=8&card_width=320&theme=dracula" />
   </a>
   
   <div>
