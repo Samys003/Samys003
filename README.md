@@ -15,7 +15,7 @@ Olá, meu nome é Samara, Tenho 22 anos, atualmente estudo no senai e finalizei 
   <img align="center" alt="Samara-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">.
   <img align="center" alt="Samara-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">.
   <img align="center" alt="Samara-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">.
-  <img align="center" alt="Nikolas-Markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">.
+  <img align="center" alt="Samara-Markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">.
 </div>
     
 ##
